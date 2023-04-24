@@ -31,4 +31,3 @@ jobs:
           push: true
           tags: evvvvan/go-chatgpt-api:arm64
           platforms: linux/arm64
-          builder: docker
